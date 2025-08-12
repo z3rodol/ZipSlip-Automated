@@ -1,5 +1,5 @@
 # ZipSlip-Automated
-Zipslip Attack Automation Script
+When I was building HackTheBox's Certificate machine, I came across a website vulnerable to this attack. I wanted to do it manually. But I realized it wasn't that easy to do. That's where I came up with the idea for this little script to automate this attack.
 
 # Usage
 
